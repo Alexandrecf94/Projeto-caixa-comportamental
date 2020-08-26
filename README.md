@@ -2,8 +2,9 @@
 Projeto com a finalidade de desenvolver algoritmos para funcionamento de uma caixa comportamental experimental. 
 
 # Algoritmos a serem desenvolvidos:
-- Rotina de habituação do animal
-- Rotina de aproximações sucessivas 
+- Desenvolver algoritmo de reconhecimento da habituação do animal
+- Desenvolver interface com usuário
+- Desenvolver algoritmo de aproximações sucessivas e recompensas
 
 # Caixa de condicionamento operante:
 - Segue imagem ilustrativa de uma caixa de condicionamento operante
